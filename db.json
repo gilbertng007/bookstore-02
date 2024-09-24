@@ -64,19 +64,6 @@
         ],
         "description": "The epic tale of Captain Ahab's obsession with the white whale.",
         "cover_image": "https://fakeimg.pl/667x1000/cc6600"
-    },
-    {
-        "id": 6,
-        "title": "The Lord of the Rings",
-        "author": "J.R.R. Tolkien",
-        "price": 89,
-        "publication_year": 1954,
-        "genre": [
-            "Fantasy",
-            "Adventure"
-        ],
-        "description": "An epic fantasy saga about the quest to destroy the One Ring.",
-        "cover_image": "https://fakeimg.pl/667x1000/cc6600"
     }
 ]
 
